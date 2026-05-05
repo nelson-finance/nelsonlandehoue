@@ -1,12 +1,12 @@
 # 👋 Nelson LANDEHOUE
 
 🎓 Étudiant en mathématiques appliquées  
-📊 Admis en Master Finance d’Entreprise & Ingénierie Financière (CNAM Angers)
+📊 Admis en Master Finance d’Entreprise & Ingénierie Financière
 
 ---
 
 ## 🎯 Objectif
-Alternance en finance de marché, data finance ou analyse quantitative
+Alternance en finance de marché, data finance ou analyse quantitative dès Septembre 2026
 
 ---
 
