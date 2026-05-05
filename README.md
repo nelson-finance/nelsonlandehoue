@@ -22,6 +22,10 @@ Alternance en finance de marché, data finance ou analyse quantitative dès Sept
 **Analyse de marchés financiers (personnel)**
 - Analyse de performance d’actifs
 - Utilisation d’indicateurs quantitatifs
+**Professeur de mathématiques**
+- Transmission de concepts complexes
+- Développement de la rigueur analytique
+
 
 **Employé polyvalent – Auchan**
 - Gestion des stocks et des flux
