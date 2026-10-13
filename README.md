@@ -1,6 +1,6 @@
 # 👋 Nelson LANDEHOUE
 
-🎓 Étudiant e Master Ingénierie Statistique et informatique de la Finance de l’assurance et du risque
+🎓 Étudiant en Master Ingénierie Statistique et informatique de la Finance de l’assurance et du risque
 
 ---
 
