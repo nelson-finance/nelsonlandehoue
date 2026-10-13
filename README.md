@@ -1,17 +1,14 @@
 # 👋 Nelson LANDEHOUE
 
-🎓 Étudiant en mathématiques appliquées  
-📊 Admis en Master Finance d’Entreprise & Ingénierie Financière
-
----
-
-## 🎯 Objectif
-Alternance en finance de marché, data finance ou analyse quantitative dès Septembre 2026
+🎓 Étudiant e Master Ingénierie Statistique et informatique de la Finance de l’assurance et du risque
 
 ---
 
 ## 💻 Compétences
 - Python (pandas, matplotlib)
+- R
+- C
+- C++
 - Excel (TCD, fonctions)
 - Analyse de données
 
